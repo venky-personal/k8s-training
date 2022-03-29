@@ -7,4 +7,4 @@ spec:
   - name: my-nginx
     image: nginx
     ports:
-    - cntaiberPort: 8080
+    - containerPort: 8080

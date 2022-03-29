@@ -11,4 +11,4 @@ spec:
   - name: my-watcher
     image: afakharany/watcher
     ports:
-    - contaiberPort: 8082
+    - containerPort: 8082
